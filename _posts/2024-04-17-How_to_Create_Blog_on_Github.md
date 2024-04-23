@@ -30,4 +30,4 @@ The repository name must follow by “.github.io” as shown above.
 ![image](https://github.com/ChandararithTho/ChandararithTho.github.io/assets/164129658/b6731638-a685-497d-b2df-60c01bd628b1)
 •	We also can edit About Page info by clicking on this “about.md” file and follow the same procedure. Every change requires a minute process for Github to update it on the site. Refresh the page if it’s still not updated. 
 
-This is the end of the blog. Thanks for reading :)
+This is the end of the blog. Thanks for reading.
