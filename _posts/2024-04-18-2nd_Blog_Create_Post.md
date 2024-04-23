@@ -1,4 +1,4 @@
-# How to Create a Post on Github
+# 2. How to Create a Post on Github
 
 1. TOC
 {:toc}
