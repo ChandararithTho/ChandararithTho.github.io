@@ -19,6 +19,7 @@ The repository name must follow by “.github.io” as shown above.
 •	Click on the green icon “Commit Changes” on the top-right side to save, then click on “Commit Changes” again. 
 
 •	Next click on the “_config.yml” file to edit our profile. 
+
 ![image](https://github.com/ChandararithTho/ChandararithTho.github.io/assets/164129658/75957420-ca56-4015-93d0-c6555e88123e)
 
 •	Edit our title, description, username and contact info in this file by clicking a pencil icon on the top-right corner, then click “commit changes” to save. 
