@@ -1,6 +1,6 @@
 # 2. How to Create a Post on Github
 
-1. TOC
+TOC
 {:toc}
 
 This blog demonstrates how to create a post on Github following Jeremy Howard’s guide.
