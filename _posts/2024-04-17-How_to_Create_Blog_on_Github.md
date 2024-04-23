@@ -1,4 +1,4 @@
-# 1st Blog: How to Create Blog on Github
+# 1. How to Create Blog on Github
 
 1. TOC
 {:toc}
