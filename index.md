@@ -1,7 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to my blog. My name is Chandaraith (Rit). I am a postgraduate student at the University of Queensland. I am doing a Master of Engineering Science (Management) in Mechatronic Engineering. I created this blog to record my learning activities and share knowledge.
 
-![Image of fast.ai logo](images/logo.png)
+![11](https://github.com/ChandararithTho/ChandararithTho.github.io/assets/164129658/57213b1f-57ce-496c-8d50-5c73c728c9b1)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
