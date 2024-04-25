@@ -1,6 +1,6 @@
 # 1. How to Create Blog on Github
 
-1. TOC
+TOC
 {:toc}
 
 Welcome to my first blog. I followed the instructions of Jeremy Howard to create this blog showing how to create a Github Blog step by step. I created this blog just to record what I have done from the very beginning step. 
