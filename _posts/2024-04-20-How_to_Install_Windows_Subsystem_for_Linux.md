@@ -3,7 +3,7 @@
 1. TOC
 {:toc}
 
-This blog explains how to install Linux on Windows 11 for the purpose of running Deep Learning Notebook, instructed by Professor Brian Lovell.
+This blog explains how to install Linux on Windows 11 for the purpose of running Deep Learning Notebook, follow Professor Brian Lovell's instruction.
 •	First search “Turn windows features on or off” on laptop’s search function
 •	Scroll down to buttom and make sure “Windows Subsystems for Linux” is ticked
 
