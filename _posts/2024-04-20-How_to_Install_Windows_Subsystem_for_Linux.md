@@ -35,7 +35,7 @@ This blog explains how to install Linux on Windows 11 for the purpose of running
 cd %USERPROFILE
 notepad .wslconfig
 •	Copy the following text into .wslconfig.
-##
+```
 # Settings apply across all Linux distros running on WSL 2
 [wsl2]
 
@@ -71,7 +71,7 @@ swap=8GB
 
 # Turns on output console showing contents of dmesg when opening a WSL 2 distro for debugging
 # debugConsole=true
-##
+```
 
 •	Then we’ll need to restart WSL by commanding “wsl –shutdown” wait a moment. To check it’s actually shut down, command “wsl –running” 
 •	Then command “wsl” to start WSL again
