@@ -9,7 +9,8 @@ This blog explains how to install Linux on Windows 11 for the purpose of running
 
 # Install Linux on Windows with WSL
 •	Open Windows Command Prompt, right-click and select "Run as administrator", enter the wsl --install command, then restart the machine.
-![image](https://github.com/ChandararithTho/ChandararithTho.github.io/assets/164129658/a1665801-cb77-461e-8185-f0b0464cdfdf)
+![image](https://github.com/ChandararithTho/ChandararithTho.github.io/assets/164129658/71eb0bd1-6971-42bc-9548-7d463c41a772)
+
 ![image](https://github.com/ChandararithTho/ChandararithTho.github.io/assets/164129658/7da07f64-56a4-40e9-ba82-5e3650932159)
 
 •	Reopen the Command Prompt, then set the WSL version 2 by typing “wsl –-set-default-version 2” then Enter
