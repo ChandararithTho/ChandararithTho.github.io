@@ -48,7 +48,7 @@ notepad .wslconfig
 
 •	Copy the following text into .wslconfig.
 
-```
+```ruby
 # Settings apply across all Linux distros running on WSL 2
 [wsl2]
 
